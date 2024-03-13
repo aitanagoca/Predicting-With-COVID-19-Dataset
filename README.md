@@ -2,7 +2,7 @@
 
 ## Group Information 
 
-👥 Group: (P102, grup 05)
+👥 Group Question: How does the probability of dying from covid vary with the age of the patient?
 
 Aitana González (240783)
 
